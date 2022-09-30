@@ -1,2 +1,2 @@
 # the-hee-sung-times
-<hstimes.netlify.app>
+https://hstimes.netlify.app
